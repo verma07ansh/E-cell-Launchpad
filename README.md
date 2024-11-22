@@ -38,4 +38,21 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/e-cell-launchpad.git
+   git clone https://github.com/verma07ansh/E-cell-Launchpad.git
+   cd E-cell-launchpad
+   ```
+2. **Install Dependencies:**
+    ```bash
+    pip install
+    ```
+3. **Start the development server:**
+    ```bash
+    npm run dev
+    ```
+    ## Usage
+
+After starting the development server, open your browser and go to:
+
+```bash
+http://localhost:5173
+```
