@@ -7,6 +7,7 @@ Welcome to the E-Cell Launchpad project! This web application is designed to emp
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
+- [Usage](#usage)
 
 ## Features
 
