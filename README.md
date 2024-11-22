@@ -43,7 +43,7 @@ To run the project locally, follow these steps:
    ```
 2. **Install Dependencies:**
     ```bash
-    pip install
+    npm install
     ```
 3. **Start the development server:**
     ```bash
